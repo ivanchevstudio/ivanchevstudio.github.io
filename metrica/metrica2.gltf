@@ -1,0 +1,241 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.3.27",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "294 \u0422\u0440\u0430\u043f\u0435\u0446\u0438\u044f Grand Vitara v6",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "translation" : [
+                2.4184038639068604,
+                -1.5607919692993164,
+                2.9798426628112793
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "extensions" : {
+                "KHR_materials_specular" : {
+                    "specularColorFactor" : [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "KHR_materials_ior" : {
+                    "ior" : 1.4500000476837158
+                }
+            },
+            "name" : "Bronze_-_Polished",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.08532565832138062,
+                    0.038984112441539764,
+                    0.0027823711279779673,
+                    1
+                ],
+                "metallicFactor" : 0.699373722076416,
+                "roughnessFactor" : 0.36534446477890015
+            }
+        },
+        {
+            "doubleSided" : true,
+            "extensions" : {
+                "KHR_materials_specular" : {
+                    "specularColorFactor" : [
+                        0.09877707895216618,
+                        0.09877707895216618,
+                        0.09877707895216618
+                    ]
+                },
+                "KHR_materials_ior" : {
+                    "ior" : 1.4500000476837158
+                }
+            },
+            "name" : "Material.001",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.6680587530136108
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "294 \u0422\u0440\u0430\u043f\u0435\u0446\u0438\u044f Grand Vitara v6",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 44844,
+            "max" : [
+                33.2998046875,
+                8.600000381469727,
+                3.1419639587402344
+            ],
+            "min" : [
+                -33.2998046875,
+                0.5,
+                -3.1419639587402344
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 44844,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 44844,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 47952,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 123422,
+            "max" : [
+                38.13977813720703,
+                33.79999923706055,
+                25.82159423828125
+            ],
+            "min" : [
+                -38.13977813720703,
+                -14.199999809265137,
+                -25.82159423828125
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 123422,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 123422,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5125,
+            "count" : 124194,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 538128,
+            "byteOffset" : 0,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 538128,
+            "byteOffset" : 538128,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 358752,
+            "byteOffset" : 1076256,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 95904,
+            "byteOffset" : 1435008,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1481064,
+            "byteOffset" : 1530912,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1481064,
+            "byteOffset" : 3011976,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 987376,
+            "byteOffset" : 4493040,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 496776,
+            "byteOffset" : 5480416,
+            "target" : 34963
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 5977192,
+            "uri" : "metrica2.bin"
+        }
+    ]
+}
