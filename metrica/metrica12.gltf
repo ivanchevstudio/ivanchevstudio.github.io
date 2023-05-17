@@ -1,0 +1,207 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.3.27",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "294 \u0422\u0440\u0430\u043f\u0435\u0446\u0438\u044f Grand Vitara v6",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "scale" : [
+                0.10000000149011612,
+                0.10000000149011612,
+                0.10000000149011612
+            ]
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "294 \u0422\u0440\u0430\u043f\u0435\u0446\u0438\u044f Grand Vitara v6",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2,
+                        "TEXCOORD_1" : 3
+                    },
+                    "indices" : 4
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 5,
+                        "NORMAL" : 6,
+                        "TEXCOORD_0" : 7,
+                        "TEXCOORD_1" : 8
+                    },
+                    "indices" : 9
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 44844,
+            "max" : [
+                33.2998046875,
+                8.600000381469727,
+                3.1419639587402344
+            ],
+            "min" : [
+                -33.2998046875,
+                0.5,
+                -3.1419639587402344
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 44844,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 44844,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5126,
+            "count" : 44844,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5123,
+            "count" : 47952,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 123422,
+            "max" : [
+                38.13977813720703,
+                33.79999923706055,
+                25.82159423828125
+            ],
+            "min" : [
+                -38.13977813720703,
+                -14.199999809265137,
+                -25.82159423828125
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 123422,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5126,
+            "count" : 123422,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 123422,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5125,
+            "count" : 124194,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 538128,
+            "byteOffset" : 0,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 538128,
+            "byteOffset" : 538128,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 358752,
+            "byteOffset" : 1076256,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 358752,
+            "byteOffset" : 1435008,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 95904,
+            "byteOffset" : 1793760,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1481064,
+            "byteOffset" : 1889664,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1481064,
+            "byteOffset" : 3370728,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 987376,
+            "byteOffset" : 4851792,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 987376,
+            "byteOffset" : 5839168,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 496776,
+            "byteOffset" : 6826544,
+            "target" : 34963
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 7323320,
+            "uri" : "metrica12.bin"
+        }
+    ]
+}
